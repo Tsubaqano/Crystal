@@ -1,0 +1,1 @@
+puts "A" + "#{read_line[8]}" + "C"
