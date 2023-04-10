@@ -1,0 +1,1 @@
+puts 48 - read_line.to_i
