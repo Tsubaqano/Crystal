@@ -1,0 +1,1 @@
+ puts 1110 - read_line.to_i
