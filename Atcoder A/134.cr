@@ -1,0 +1,1 @@
+puts 3 * read_line.to_i** 2
