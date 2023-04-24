@@ -1,0 +1,1 @@
+puts (read_line.to_i(36) + 1).to_s(36)
