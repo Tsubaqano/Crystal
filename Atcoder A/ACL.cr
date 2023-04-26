@@ -1,0 +1,1 @@
+puts "ACL" * read_line.to_i
